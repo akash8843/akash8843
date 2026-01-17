@@ -63,7 +63,7 @@
 ## 🤝 Connect With Me
 - 💻 GitHub: https://github.com/akash8843  
 - 🔗 LinkedIn: https://www.linkedin.com/in/akash-shukla-5636132ab
-- - 📧 Email: akashshukla2376@gmail.com  
+-  📧 Email: akashshukla2376@gmail.com  
 
 ---
 
